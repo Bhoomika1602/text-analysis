@@ -9,6 +9,10 @@ Text Suggestions: Suggest improvements for negative sentiment sentences using Te
 Text Summarization: Summarize long text passages using a pre-trained summarization model from Hugging Face (DistilBART).
 File Upload: Analyze text from either direct input or from an uploaded file.
 
+# Screenshots
+![image](https://github.com/user-attachments/assets/559a7c43-39eb-42a6-8489-26b7c126c3cc)
+
+
 ## Installation
 
 1. Clone the repository:
