@@ -10,7 +10,12 @@ Text Summarization: Summarize long text passages using a pre-trained summarizati
 File Upload: Analyze text from either direct input or from an uploaded file.
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/559a7c43-39eb-42a6-8489-26b7c126c3cc)
+![image](https://github.com/user-attachments/assets/612726b7-92c1-431b-8337-2fb756db3303)
+![image](https://github.com/user-attachments/assets/42a32727-b076-4e61-bcc1-9eee3e8bec3d)
+![image](https://github.com/user-attachments/assets/547c6093-7f1e-4e70-b8ad-524782f67798)
+
+
+
 
 
 ## Installation
